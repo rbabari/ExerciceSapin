@@ -49,7 +49,7 @@ public class ExerciceSapin {
         }
      
        System.out.println("");
-      System.out.println("----------SAPIN COUCHÉ-------");
+      System.out.println("----------SAPIN COUCHÉ-----///--");
         for (int j = 0; j < nbrLigne; j++) {
             for (int i = 0; i < j; i++) {
                 System.out.print("*");
@@ -64,11 +64,6 @@ public class ExerciceSapin {
             System.out.println("");
         }
        
-       
-                
-        
-        
-
     }
 
 }
